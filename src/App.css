@@ -1,0 +1,51 @@
+.App {
+  margin: auto;
+  text-align: center;
+  background-color: #1b2430;
+  width: 500px;
+  height: 260px;
+  color: #d6d5a8;
+  border-radius: 10px;
+}
+
+h1 {
+  padding-top: 20px;
+  color: #efefef;
+}
+
+button {
+  margin: 12px;
+  font-size: 16px;
+  padding: 4px;
+  font-weight: bold;
+  background-color: #0077fe;
+  border-radius: 6px;
+  width: 80px;
+  color: #d6d5a8;
+  border: none;
+}
+
+button:hover {
+  background-color: #004ea8;
+  color: #d6d5a8;
+}
+
+.slider {
+  margin: 20px;
+}
+
+.metronome {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.bpm {
+  font-weight: bolder;
+  font-size: 20px;
+  color: #efefef;
+}
+
+input {
+  width: 240px;
+  outline: none;
+}
